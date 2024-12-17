@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/divyanshusingh/Desktop/Workify_Project/Workify/wwwroot/resumes/092b4e2e-2ffc-4b16-ab53-729e75f76d79.pdf",
+      "PackagePath": "staticwebassets/resumes/092b4e2e-2ffc-4b16-ab53-729e75f76d79.pdf"
+    },
+    {
+      "Id": "/Users/divyanshusingh/Desktop/Workify_Project/Workify/wwwroot/resumes/26c939e5-2037-435f-a511-1867911a7e30.pages",
+      "PackagePath": "staticwebassets/resumes/26c939e5-2037-435f-a511-1867911a7e30.pages"
+    },
+    {
+      "Id": "/Users/divyanshusingh/Desktop/Workify_Project/Workify/wwwroot/resumes/70c4a2a5-a123-440d-8c4f-6dcc22de5370.pages",
+      "PackagePath": "staticwebassets/resumes/70c4a2a5-a123-440d-8c4f-6dcc22de5370.pages"
+    },
+    {
+      "Id": "/Users/divyanshusingh/Desktop/Workify_Project/Workify/wwwroot/resumes/7908d009-acb6-47f5-9a02-42b1fbfcf2b9.pdf",
+      "PackagePath": "staticwebassets/resumes/7908d009-acb6-47f5-9a02-42b1fbfcf2b9.pdf"
+    },
+    {
+      "Id": "/Users/divyanshusingh/Desktop/Workify_Project/Workify/wwwroot/resumes/89829f6a-94b1-4ded-858e-04270d18b211.pdf",
+      "PackagePath": "staticwebassets/resumes/89829f6a-94b1-4ded-858e-04270d18b211.pdf"
+    },
+    {
+      "Id": "/Users/divyanshusingh/Desktop/Workify_Project/Workify/wwwroot/resumes/e1a23be9-b248-4042-a21c-2c68825adfca.pdf",
+      "PackagePath": "staticwebassets/resumes/e1a23be9-b248-4042-a21c-2c68825adfca.pdf"
+    },
+    {
+      "Id": "/Users/divyanshusingh/Desktop/Workify_Project/Workify/wwwroot/resumes/e73fae26-0adb-477b-85da-2255bea1d42a.pdf",
+      "PackagePath": "staticwebassets/resumes/e73fae26-0adb-477b-85da-2255bea1d42a.pdf"
+    },
+    {
+      "Id": "/Users/divyanshusingh/Desktop/Workify_Project/Workify/wwwroot/resumes/ead6f963-413b-4b1a-b05a-23b3ada2cc45.pages",
+      "PackagePath": "staticwebassets/resumes/ead6f963-413b-4b1a-b05a-23b3ada2cc45.pages"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Workify.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Workify.props",
+      "PackagePath": "build\\Workify.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Workify.props",
+      "PackagePath": "buildMultiTargeting\\Workify.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Workify.props",
+      "PackagePath": "buildTransitive\\Workify.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
